@@ -1,0 +1,6 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 37 products, 9 sources, 7 libraries
+[debug] current source = Set(${BASE}/src/main/scala/com/machineman/util/ShardingUtil.scala, ${BASE}/src/main/scala/com/machineman/actor/Delegator.scala, ${BASE}/src/main/scala/com/machineman/actor/Supervisor.scala, ${BASE}/src/main/scala/com/machineman/serializer/DataSerializer.scala, ${BASE}/src/main/scala/com/machineman/util/ServiceProvider.scala, ${BASE}/src/main/scala/com/machineman/actor/ProcessingActor.scala, ${BASE}/src/main/scala/com/machineman/Main.scala, ${BASE}/src/main/scala/com/machineman/commands/DataBehavior.scala, ${BASE}/src/main/scala/com/machineman/util/LoggingActor.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] No changes
